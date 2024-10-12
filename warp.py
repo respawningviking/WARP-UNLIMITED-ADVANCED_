@@ -16,7 +16,7 @@ filterwarnings("ignore", category=DeprecationWarning)
 os.system("title WARP UNLIMITED ADVANCED")
 os.system("cls" if os.name == "nt" else "clear")
 
-referrer = b51ec48b-d5e8-45fe-bb4a-a726db39f89b
+referrer = "b51ec48b-d5e8-45fe-bb4a-a726db39f89b"
 
 
 g = 0
